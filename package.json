@@ -15,5 +15,9 @@
     "bugs": {
         "url": ""
     },
-    "homepage": ""
+    "homepage": "",
+    "devDependencies": {
+        "express": "^4.17.0",
+        "express-basic-auth": "^1.2.0"
+    }
 }
